@@ -1,9 +1,9 @@
 # tldr: Your new CLI tool for Python
 
-[![PyPI version](https://img.shields.io/pypi/v/tldrpy.svg)](https://pypi.org/project/tldrpy/) 
-[![Python Version](https://img.shields.io/pypi/pyversions/tldrpy.svg)](https://pypi.org/project/tldrpy/)
-[![License](https://img.shields.io/github/license/yourusername/tldrpy.svg)](LICENSE)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/tldr-py/python-package.yml?branch=main)](https://github.com/yourusername/tldr-py/actions)
+[![PyPI version](https://img.shields.io/pypi/v/tldrcli.svg)](https://pypi.org/project/tldrcli/) 
+[![Python Version](https://img.shields.io/pypi/pyversions/tldrcli.svg)](https://pypi.org/project/tldrcli/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/dpandaman/tldr-py/python-package.yml?branch=main)](https://github.com/dpandaman/tldr-py/actions)
 
 ---
 
