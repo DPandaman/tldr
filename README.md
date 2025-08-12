@@ -14,7 +14,7 @@
 
 ## What is tldr?
 
-**tldr** is a lightweight command-line tool that helps you quickly understand Python error messages and suggests actionable fixes so you can debug faster and code smarter. It is built to accommodate all experience levels, helping beginners gain a clearer understanding of Python errors while enabling more advanced users to save time during the debugging process. It natively handles errors and provides solutions (and edits files if needed) for most basic cases, though it has AI support if needed. All local, no API keys needed!
+**tldr** is a lightweight command-line tool that helps you quickly understand Python error messages and suggests quick fixes so you can debug faster and code smarter. It is built to accommodate all experience levels, helping beginners gain a clearer understanding of Python errors while enabling more advanced users to save time during the debugging process. It natively handles errors and provides solutions (and edits files if needed) for most basic cases, though it has AI support if needed. All local, no API keys needed!
 
 ---
 
