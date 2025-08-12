@@ -62,7 +62,7 @@ tldr --ol | -o                   # Setup instructions for complex --autofix
 tldr --oc | -c                   # Verify setup
 tldr --stats | -s                # View usage statistics and error history
 ```
-After installing **tldr**, you can run ```tldr --help ``` to see the full extent of what it can do. Like this, **tldr** is already a great tool for Python beginners to learn and understand. However, there are always some errors that it cannot predict. To ensure that **tldr** can help you regardless of the situation, set up the local AI model by following the steps in ```tldr --ol ```. Once that is done, running ```tldr --oc ``` will verify if the setup was done correctly. Below are the same steps you will find in your terminal if you choose to install it later:
+After installing **tldr**, you can run ```tldr --help``` to see the full extent of what it can do. Like this, **tldr** is already a great tool for Python beginners to learn and understand. However, there are always some errors that it cannot predict. To ensure that **tldr** can help you regardless of the situation, set up the local AI model by following the steps in the flag ```tldr --ol```. Once that is done, running ```tldr --oc``` will verify if the setup was done correctly. Below are the same steps you will find in your terminal if you choose to install it later:
 
 - In your terminal, run ```pip install ollama```
 - Visit https://ollama.com/ and download the installer
