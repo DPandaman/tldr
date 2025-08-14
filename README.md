@@ -1,6 +1,6 @@
 # tldr: Your new CLI tool for Python
-
-[![PyPI version](https://img.shields.io/pypi/v/tldrcli.svg)](https://pypi.org/project/tldrcli/) 
+ 
+[![Version](https://img.shields.io/pypi/v/tldrcli?color=red&label=version)](https://pypi.org/project/tldrcli/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language](https://img.shields.io/badge/language-Python-brightgreen.svg)](#)
 ![Downloads](https://static.pepy.tech/badge/tldrcli)
