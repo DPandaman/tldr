@@ -65,6 +65,20 @@ After installing tldr, run ```tldr --help``` to view all available commands. For
 - Run the installer and follow the setup instructions
 - Once installed, open a terminal and run ```ollama run llama3:8b```
 
+---
+
+## Changelog
+### v1.3.1:
+- Fixed setup bug for ```-v``` flag 
+- Stats flag, ```--stats | -s``` now persists across version updates (won't lose history when ```pip install --upgrade tldrcli```)
+- Demo flag, ```--demo | -d```, created to help users see how **tldr** works 
+
+### v0.1 / v0.2:
+- Mainstream launch of tldr with minor UI changes
+
+[See all releases](https://github.com/DPandaman/tldr/releases)
+
+
 ## Contributing
 Contributions, issues, and feature requests are welcome! Feel free to open issues to report bugs, request features, submit pull requests to improve the codebase, or more!
 
