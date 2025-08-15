@@ -26,12 +26,12 @@
 
 ## Installation
 
-Install **tldr** directly in your terminal:
+Install **tldr** directly in your terminal or command prompt:
 
 ```
 pip install tldrcli
 ```
-That's it! **tldr** is ready to use!
+That's it! **tldr** is ready to use! You may need to restart the application for it to be configured properly
 
 ## Using tldr
 
