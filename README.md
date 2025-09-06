@@ -2,8 +2,10 @@
  
 [![Version](https://img.shields.io/pypi/v/tldrcli?color=red&label=version)](https://pypi.org/project/tldrcli/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Language](https://img.shields.io/badge/language-Python-brightgreen.svg)](#)
-![Downloads](https://static.pepy.tech/badge/tldrcli)
+[![Language](https://img.shields.io/badge/language-Python-brightgreen.svg)](#) 
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/tldrcli?period=total&units=NONE&left_color=grey&right_color=BLUE&left_text=downloads)](https://pepy.tech/projects/tldrcli)
+
+<!-- ![Downloads](https://static.pepy.tech/badge/tldrcli) -->
 
 ---
 
