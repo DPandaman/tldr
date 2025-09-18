@@ -33,7 +33,7 @@ Install **tldr** directly in your terminal or command prompt:
 ```
 pip install tldrcli
 ```
-That's it! **tldr** is ready to use! You may need to restart the application for it to be configured properly
+That's it! **tldr** is ready to use! You may need to restart the application for it to be configured properly. If you already have **tldr** and want to update to the newest version, run ```pip install --upgrade tldrcli```
 
 ## Using tldr
 
